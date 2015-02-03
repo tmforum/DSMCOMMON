@@ -1,4 +1,4 @@
 DSMCOMMON
 =========
 
-XXXXDigital Service Management Common 
+Digital Service Management Common 
